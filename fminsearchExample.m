@@ -1,7 +1,4 @@
 
-%ogólny koncept naszego rozwiązania znaliezłyśmy na forumie matlabowym: 
-%https://www.mathworks.com/matlabcentral/answers/658023-how-to-plot-the-trajectory-that-fminsearch-follows
-
 %METODA NELDERA-MEADA
 
 %%
