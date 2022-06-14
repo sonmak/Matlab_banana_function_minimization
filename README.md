@@ -1,4 +1,4 @@
 # Matlab_banana_function_minimization
 
 
-Stydying unconstrained nonlinear minimization on the example of banana function
+Stydying unconstrained nonlinear minimization on the example of banana function - April 2022
